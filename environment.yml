@@ -2,6 +2,7 @@ name: repressilator-environment
 channels:
   - conda-forge
 dependencies:
+  - voila
   - numpy
   - matplotlib
   - bokeh
