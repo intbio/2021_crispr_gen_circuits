@@ -4,6 +4,5 @@ channels:
 dependencies:
   - numpy
   - matplotlib
-  - pandas
   - bokeh
   - scipy
