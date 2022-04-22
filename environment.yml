@@ -1,0 +1,9 @@
+name: repressilator-environment
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - pandas
+  - bokeh
+  - scipy
