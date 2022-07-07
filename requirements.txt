@@ -1,3 +1,6 @@
 scipy
 numpy
 bokeh
+bqplot
+ipywidgets
+voila
