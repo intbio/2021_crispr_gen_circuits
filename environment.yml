@@ -7,3 +7,5 @@ dependencies:
   - matplotlib
   - bokeh
   - scipy
+  - bqplot
+  - ipywidgets
